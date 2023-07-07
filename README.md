@@ -1,5 +1,6 @@
 # smart-lock
 Group 2: Ragir Zebari, Angel Samora, Loc Huynh
+
 The smart lock consists of 4 potentiometers that each represent an AnalogIn.
 Adjusting the potentiometers would adjust the distinct digits.
 It is important to note that this is a 4 digit combination. 
